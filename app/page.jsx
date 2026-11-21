@@ -8,7 +8,7 @@ export default function Home() {
       <header className="hero">
         <div className="hero-in">
           <h1>A front-row seat to <em>nature and wildlife</em> without the engine.</h1>
-          <p>Premium guided kayaking on Lake Victoria. Small groups to see birdlife, marine wildlife, fishing, family adventures and relaxation on calm waters, just 40 minutes from Kampala and 20 minutes from Entebbe.</p>
+          <p>Premium guided kayaking on Lake Victoria. Small groups to see birdlife, marine wildlife, go fishing, family adventures and relaxation on calm waters, just 40 minutes from Kampala and 20 minutes from Entebbe.</p>
           <div className="acts">
             <Link href="/book" className="btn">Book Your Trip</Link>
             <Link href="/activities" className="ghost">View Experiences →</Link>
